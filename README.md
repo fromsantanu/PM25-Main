@@ -25,7 +25,7 @@ Associations were stronger at lower exposure levels, indicating significant heal
 ### Table of Contents
 [Specific Sections of Article Explained](https://github.com/fromsantanu/PM25-Specific-Sections)
 
-[Our Plots and Analysis](#)  ![Static Badge](https://img.shields.io/badge/Under%20Construction-FF0000) 
+[Our Plots and Analysis](https://github.com/fromsantanu/Prog1-PM25-Analysis-Based-On-Lancet-Report)
 
 ### Video
 We are still working. ![Static Badge](https://img.shields.io/badge/Under%20Construction-FF0000) 
