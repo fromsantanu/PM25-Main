@@ -24,4 +24,8 @@ Associations were stronger at lower exposure levels, indicating significant heal
 
 ### Table of Contents
 [Sections of Article Explained](#) 
+
 [Our Analysis](#) 
+
+### Video
+We are still working. ![Static Badge](https://img.shields.io/badge/Under%20Construction-FF0000) 
