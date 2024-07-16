@@ -23,7 +23,7 @@ The causal analysis showed a stronger association with a 3.6% increase in daily 
 Associations were stronger at lower exposure levels, indicating significant health risks even at PM2.5 levels below current Indian standards.
 
 ### Table of Contents
-[Specific Sections of Article Explained](#)  ![Static Badge](https://img.shields.io/badge/Under%20Construction-FF0000) 
+[Specific Sections of Article Explained](https://fromsantanu/PM25-Specific-Sections)
 
 [Our Plots and Analysis](#)  ![Static Badge](https://img.shields.io/badge/Under%20Construction-FF0000) 
 
