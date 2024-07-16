@@ -1,4 +1,4 @@
-# PM25-Main
+# Ambient Air Pollution and Daily Mortality in Ten Cities of India
 
 ## Summary
 ### Title: Ambient air pollution and daily mortality in ten cities of India: a causal modelling study
